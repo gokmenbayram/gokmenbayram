@@ -3,10 +3,8 @@
 - 🌱 My name is Gokmen Bayram. I'm an Android Developer @Keove. 
 - 🇹🇷 From Istanbul/Turkey
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokmenbayram&theme=dracula)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokmenbayram&count_private=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokmenbayram)](https://github.com/gokmenbayram/github-readme-stats)
 
 
 <!--
