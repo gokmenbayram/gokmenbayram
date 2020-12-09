@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello World 😊 👋
 
 - 🌱 My name is Gokmen Bayram. I'm an Android Developer @Keove. 
 - 🇹🇷 From Istanbul/Turkey
