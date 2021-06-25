@@ -1,6 +1,6 @@
 ### Hello World 😊 👋
 
-- 🌱 My name is Gokmen Bayram. I'm an Android Developer @Keove. 
+- 🌱 My name is Gokmen Bayram. I'm an Android Developer. 
 - 🇹🇷 From Istanbul/Turkey
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokmenbayram&theme=dracula)
