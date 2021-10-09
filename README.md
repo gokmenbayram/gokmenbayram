@@ -1,7 +1,7 @@
 ### Hello World 😊 👋
 
 - 🌱 My name is Gokmen Bayram. I'm an Android Developer. 
-- 🇹🇷 From Istanbul/Turkey
+- 🇹🇷 From Turkey
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokmenbayram&theme=dracula)
 
