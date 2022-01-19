@@ -2,10 +2,12 @@
 
 - 🌱 My name is Gokmen Bayram. I'm an Android Developer. 
 - 🇹🇷 From Turkey
+- 🏢 I'm currently working at Appcent as an Android Developer
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokmenbayram&theme=dracula)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokmenbayram&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+     
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokmenbayram&theme=radical)
 
 <!--
 **gokmenbayram/gokmenbayram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
