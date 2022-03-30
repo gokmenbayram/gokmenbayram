@@ -4,6 +4,7 @@
 - 🇹🇷 From Turkey
 - 🏢 I'm currently working at Appcent as an Android Developer
 
+![](https://komarev.com/ghpvc/?username=gokmenbayram&color=red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokmenbayram&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
      
